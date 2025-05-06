@@ -2,6 +2,7 @@
   "name": "redux-toolkit-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/hemantyogananda/redux-toolkit-app/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.7.0",
     "cra-template-redux": "2.0.0",
